@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/943.471dfd50.chunk.css","mappings":"AAAA,2BACI,YAAa,CACb,iBACJ,CAEA,uBACI,cAAe,CACf,eACJ","sources":["components/notFound/NotFound.module.css"],"sourcesContent":[".container {\n    padding: 30px;\n    text-align: center;\n}\n\n.text {\n    font-size: 30px;\n    font-weight: 700;\n}"],"names":[],"sourceRoot":""}
