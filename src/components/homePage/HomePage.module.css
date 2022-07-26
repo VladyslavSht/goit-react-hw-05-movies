@@ -1,0 +1,31 @@
+.container {
+    padding: 0 30px;
+}
+
+.header {
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(76, 156, 241);
+    margin-bottom: 30px;
+}
+
+.trends {
+    list-style: none;
+}
+
+.movie__item {
+    margin-bottom: 10px;
+    color: rgb(76, 156, 241);
+}
+
+
+.movie__link {
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
+.movie__link:hover {
+    color: rgb(76, 156, 241);
+}

@@ -1,0 +1,20 @@
+.container__button {
+    margin-bottom: 20px;
+}
+
+.button {
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(0, 0, 0);
+    background-color: rgb(76, 156, 241);
+    border: 1px solid rgba(75, 75, 75, 30%);
+    border-radius: 5px;
+
+    padding: 8px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: rgb(76, 156, 241);
+    ;
+}

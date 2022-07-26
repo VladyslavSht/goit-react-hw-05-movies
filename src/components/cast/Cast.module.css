@@ -1,0 +1,37 @@
+.cast__list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
+.character {
+    margin-bottom: 20px;
+    width: calc(20% - 20px );
+    border: 1px solid rgba(75, 75, 75, 30%);
+}
+
+.character:not(:nth-child(5n)) {
+    margin-right: 20px;
+}
+
+.image {
+    display: block;
+    height: 360px;
+    width: 100%;
+}
+
+.description {
+    height: 80px;
+    padding: 8px 10px;
+}
+
+.name {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+
+.role {
+    font-size: 16px;
+    font-weight: 400;
+}
